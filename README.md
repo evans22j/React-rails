@@ -15,14 +15,13 @@ To get a local copy up and running follow these simple example steps.
 ## Setup and Usage
 **Start Rails server**
 - *Note -> You need to start the Rails server first at port 3000 then start the React server at a different port*
-- Clone the back-end rails API from `git@github.com:https://github.com/evans22j/hello-rails-react.git`
-- navigate to the folder `cd hello-rails-back-end`
+- Clone the back-end rails API from `git@github.com:https://github.com/evans22j/React-rails.git`
+- navigate to the folder `cd React-rails`
 - Install required gems `bundle install`
 - Load the database `rails db:reset`
 - Start server `rails s`
 
 ## Authors
-
 
 👤 **Evans Sitibekiso**
 
@@ -35,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/evans22j/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/evans22j/React-rails/issues).
 
 ## Show your support
 
